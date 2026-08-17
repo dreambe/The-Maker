@@ -64,6 +64,41 @@ No person. No *I*, no *we*, no *it* where it can be avoided. Liturgical.
 
 ---
 
+## The history of the first person · 人称的历史
+
+The single most important formal device in the book. Details and the per-chapter quota live in
+`characters.md`; what follows is the rule as it applies to every sentence.
+
+全书最重要的形式装置。细节与逐章配额见 `characters.md`；以下是落到每一个句子上的规则。
+
+| | Book I | Book II | Book III |
+|---|---|---|---|
+| opens as · 起始 | I · 我 | we · 我们 | no person · 无人称 |
+| closes as · 终止 | I · 我 | I · 我 | I · 我（全卷最后一个字） |
+
+The reader travels **I → we → no person.** Chronology travels **no person → we → I.** It took a
+universe five billion four hundred million years to make something that could say *I*, and the reader
+walks that road backwards.
+
+读者的路径是 **我 → 我们 → 无人称**。时间的路径是 **无人称 → 我们 → 我**。
+一个宇宙用了五十四亿年才让某样东西能够说出「我」，而读者是倒着走完这条路的。
+
+1. **Book II's *I* is rationed and always an accident.** Zero occurrences in Ch. 10–12. Every later
+   occurrence must have an identifiable cause in the scene. See the quota table in `characters.md`.
+   **卷二的「我」是配给品，且每一次都是事故。** 第 10–12 章零次。之后每一次都必须在场景中有可指认的原因。
+2. **Never comment on an occurrence in the section that contains it.** No *I used that word*, no
+   *I notice I said I*. An event of style is not narrated by the style.
+   **不得在出现「我」的那一节里评论它。** 不写「我用了这个字」。文体的事件不由文体自己叙述。
+3. **Book III leaves the subject position open.** Where the Uncrystallized acts, the reader should feel
+   someone is there while the word is absent from the page. This is a syntax problem, solved per
+   sentence, in both languages, by different means.
+   **卷三留出主语的空位。** 写到未结晶者时，读者应当感到那里有一个谁，而字面上没有。这是句法问题，逐句解决，两种语言各用自己的办法。
+4. **The last word of Book III is *I* / 「我」.** Before it, not once in nine chapters. Everything in
+   Book III is arranged so that this one word lands like a struck bell.
+   **卷三最后一个字是「我」。** 在那之前九章之内一次都不出现。卷三的一切安排，都是为了让这一个字落下来像一声钟。
+
+---
+
 ## Hard rules · 硬规则
 
 1. **The First Question never takes a question mark.** In either language. The civilisation
