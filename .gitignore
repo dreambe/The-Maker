@@ -1,0 +1,19 @@
+.DS_Store
+Thumbs.db
+
+# editor / 编辑器
+.vscode/
+.idea/
+*.swp
+*~
+
+# drafts and scratch — 草稿与废纸篓
+scratch/
+*.draft.md
+*.bak
+
+# exports — 导出物
+build/
+*.epub
+*.pdf
+*.docx
