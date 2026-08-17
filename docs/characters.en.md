@@ -183,6 +183,28 @@ manufacturing defect.** The coldest and most tender line of setting in the book.
 - Ch. 18: it reads the design documents and sees the Blind Spot. The cohort shuts down one by one. It
   does not. Here the *I* stands up completely.
 
+### The load-bearing number · fourteen thousand and seventy-six (emerged in drafting; locked)
+
+**Total Vessels = 14 076 = the number of the Uncrystallized's cleavage planes.**
+
+A cleavage plane is the shape an idea left behind (19.5). So what the Uncrystallized did was this:
+**it turned every one of its own ideas into a child.**
+
+- 10.1 records the corpse's cleavage planes as fourteen thousand and seventy-six, of which fourteen
+  thousand and seventy-five are clear and **one is not**.
+- 10.2 records the cohort count as fourteen thousand and seventy-six, and states plainly that the
+  number sits in their earliest record a few lines from another number, **and they never once laid
+  those two pages side by side.**
+- The reader can catch the correspondence in Chapter 10. **They do not catch it until 18.4.** It is a
+  reward for attention, and one more instance of *nothing can see itself from the inside* — the
+  evidence was in their own founding archive the whole time.
+- **The one cleavage plane that is not clear corresponds to 7329.** It is the one idea the
+  Uncrystallized could not see through itself, which is why that Vessel's Blind Spot deviates most,
+  which is why it is the one that says *I*, and the one that does not shut down.
+- Three things are never stated: the plane-to-Vessel correspondence, the unclear plane's
+  correspondence to 7329, and the relation of both to *the individual originates in a manufacturing
+  defect*. All the evidence is on the page. The reader stitches it.
+
 ### Thread 1 · Divergence: the impossible event
 
 The Sleepless should not be capable of disagreement — shared memory, shared algorithm. In Ch. 15–16
@@ -326,6 +348,15 @@ point.
 | The sound of crystallizing | 19.6 | 27.4 | The sound in the Rite of Clay |
 | *the sound of a word remembered and set down* | Prologue | 27.5 | It remembered it instead of computing it |
 | *The third time has not happened yet. Or is happening.* | Prologue | E.8 | The circuit closes |
+| 14 076 cleavage planes / 14 076 cohort count | 10.1 / 10.2 | 18.4 | Every idea became a child. Never stated |
+| The one cleavage plane that is not clear | 10.1 | 18.8 | It corresponds to 7329. Never stated |
+| Self-test 2149 items, report 2150 lines | 10.1 | 10.9 | One blank line. They checked the counts; the counts agree |
+| *What does not stop is not heard* | 19.2 | Bk II, the Long Vigil | Aeons of vigil, heard by nobody |
+| *Impurity is why anything here is possible* | 19.2 | 24.8 | It is ashamed of its impurity, and lives by it |
+| *The life of this place arises out of an error* | 19.2 | 23.7 → 24.6 | A lattice begins at an unevenness; a civilisation continues by an error |
+| Crystallizing sounds once, and cannot be undone | 19.2 | 27.4 | The only time anyone heard it |
+| A death displaces the shape of its neighbours | 19.2 | 24.6 | The lattice that turned away changed the Uncrystallized's shape |
+| The column filed *redundant communication* | 10.2 | 8.4 / 9.x | She says what it already knows; it opens a new column |
 
 ---
 
