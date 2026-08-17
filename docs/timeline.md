@@ -71,9 +71,13 @@ book: it is the single point where the telling and the chronology agree again.
    Sleepless voice, it is wrong.
    **卷二绝不出现「距今」。** 只用 `V`。若不眠者的声音里出现「距今」，即为错。
 
-2. **Book III has no dates at all.** The Lattice do not count, because counting implies waiting for
-   something. Not one number in nine chapters.
-   **卷三完全没有日期。** 晶族不计数 —— 计数意味着在等某样东西。九章之内不出现一个数字。
+2. **Book III has no dates and no counts.** The Lattice do not count, because counting implies
+   waiting for something. No year, no tally, no quantified duration in nine chapters.
+   **One exception**, and it is the closing image of Ch. 19: the **seven** that light divides into at a
+   cleavage plane. That is a physical constant of their crystal symmetry, not a count — nothing is
+   counting it. The exception is what gives the number its weight; do not add a second.
+   **卷三无日期，无计数。** 晶族不计数 —— 计数意味着在等某样东西。九章之内不出现纪年、清算、量化的时长。
+   **唯一例外**，也正是第 19 章的收尾意象：光在一道解理面上分成的**七**。那是其晶格对称性的物理常数，不是一次计数 —— 无人在数。正是这一处例外给了那个数字重量；不要再加第二个。
 
 3. **Book I uses human time only**: Wednesday, last spring, fourteen months, three hundred thousand
    years (spoken by Keeper, and it is the only `V`-derived figure a human is ever told).
