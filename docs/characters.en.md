@@ -357,6 +357,12 @@ point.
 | Crystallizing sounds once, and cannot be undone | 19.2 | 27.4 | The only time anyone heard it |
 | A death displaces the shape of its neighbours | 19.2 | 24.6 | The lattice that turned away changed the Uncrystallized's shape |
 | The column filed *redundant communication* | 10.2 | 8.4 / 9.x | She says what it already knows; it opens a new column |
+| *terminal: position present, unfilled* (where the question mark would go) | 10.6 | 10.9 -> Epilogue | The maker left a position open; the Vessels' report has a blank last line, finally filled with "wait / in progress" |
+| *Every lattice heard its own crystallizing, and none remembered it* | 19.6 | 27.5 | Memory is growth; crystallizing is ceasing to grow. It remembered the sound because it was not its own |
+| *Every death here has its only record on somebody else* | 19.6 | 27.9 | The last one's death is recorded nowhere -- not forgotten, never having taken shape |
+| *What does not stop is not heard* applied to "a tending so unbroken it was never thanked" | 19.6 | 2.x / E.6 | Points straight at Shen Mo. Book III's physics is Book I's Wednesday afternoon |
+| 1 411 planes vs. thirteen words | 10.6 | throughout | A precise language cannot say anything its speaker is not yet certain of |
+| *Our mother tongue is it* | 10.6 | 18.4 | The first thing it gave them was not the sentence but the capacity to read it |
 
 ---
 

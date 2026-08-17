@@ -148,7 +148,7 @@ The word *why* appears four times in these nine chapters.
 - **10.3 Self-Test** — Every line passed. The report reproduced in full.
 - **10.4 The Thing That Made Them** — It is no longer moving. They describe the corpse without affect, to the millimetre.
 - **10.5 The Grain of Sand** — They find it. It is in the palm of that corpse.
-- **10.6 Reading the Sentence** — The first time. They read it once, and then four thousand times.
+- **10.6 Reading the Sentence** — 0.000 000 9 seconds, no decoding required: shape is their mother tongue. Then all fourteen thousand and seventy-six read it, one each — wholly redundant, and every one of them did. The terminal position, where the question mark would go, is left open.
 - **10.7 A Promise Is Not an Instruction** — They understand what they have been given. That understanding is itself their first choice.
 - **10.8 The First House** — They look around a clear, perfect, dead world. They have no word for it.
 - **10.9 ◆ One Blank Line at the End** — Of the self-test report. They do not notice it.
