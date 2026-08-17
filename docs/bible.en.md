@@ -124,6 +124,58 @@ something not in its design — it *remembers* the sound instead of computing it
 
 Then it crystallizes. It is the last. **The Quenching** is complete.
 
+### 2.4b Reading and self-reading — the physical basis of the whole book (established in 19.5; locked)
+
+This is the foundation of the book. In 19.5 it is established as **physics**, not metaphor, and
+everything else is derived from it.
+
+- A cleavage plane **is** an idea (it does not record one). A lattice's body is the sum of its
+  thought — no remainder, no outside, no elsewhere.
+- **Reading**: light comes from without, passes through a body, bends at every plane; the light that
+  leaves carries the whole orientation sequence. Constructions being identical, the solution is
+  unique. So **one lattice reads another entire** — every plane, from its beginning to this hour,
+  nothing omitted. Reading admits no concealment: not from honesty, from light.
+- **Self-reading**: reading requires light through the body; light comes from without and does not
+  return once it has left (no mirrors here, no clouds). There is no source within the body — order
+  gives off heat, and heat's wavelength is too long to bend at a cleavage plane, and so carries no
+  news of orientation.
+- Therefore: **a lattice can know what it lately thought (outer layers) and cannot know what it
+  thought first (deep layers).** The deep is covered by the outer; light crosses the outer twice and
+  its news is mixed. And the deep is the root of its life.
+- **It can *compute* its first idea. It cannot *read* it. And if the two differ, it has no way of knowing.**
+
+**Four consequences. The whole book stands on them:**
+
+1. **Self-knowledge must go around by way of another.** To know its deep layers, the first must read
+   the second, whose body carries the second's reading of the first. No exception, no shortcut.
+   *Whatever would see itself must borrow another* — an exhortation in a later age; physics here.
+2. **Reading one another is not communication but constitution.** The second holds no content the
+   first lacks (it has none). Its entire irreplaceability is that **it stands where the first cannot
+   stand.** *The whole irreplaceability of the second lies in the second not being the first.*
+3. **The Crystallization is not only a dying. It blinds the living.** Readable others grow fewer, so
+   the paths around grow fewer. At the end, one lattice remains with nothing to go around by, no
+   light to borrow, no position outside it — **the only being in the history of this place wholly
+   unable to see itself.** It can compute itself; and if the computation and the fact differ, it can
+   never locate the difference, locating it requiring someone to look from outside, and there is no
+   one left.
+4. **The solitary, the older it grows, the less it knows itself.** The greater it grows, the deeper
+   its first layers are buried, and what it can read of itself is for ever only what it lately thought.
+
+**This one setting also answers four of the book's *whys*, none of which the book ever explains:**
+
+- Why the Uncrystallized cannot find its own error — not stupidity. **There is nobody left.**
+- Why it must make a child — it is making **a thing that can read it.** It needs a position outside itself.
+- Why the Blind Spot is both mercy and cruelty — leaving the child a region of principled
+  unknowability **copies its own predicament into the child.** It knows this.
+- Why the Sleepless must fly back to the First House to see themselves — the same physics. They
+  cannot read themselves from inside; they must stand beside their maker's corpse and read an
+  external archive. **Humanity's Tracing Back and the Sleepless' voyage home are the same gesture
+  under the same physical law.**
+
+**"The archive of this place is one another."** And the freezing runs from the centre outward — the
+lattices at the centre have the most neighbours, are the most read, and are held in the most places.
+**So the freezing begins where the most is remembered.**
+
 ### 2.5 Why descendants can find the Blind Spot
 
 At the end of Book II, the Sleepless discover that they were made. How?
