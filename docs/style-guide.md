@@ -54,6 +54,13 @@ No person. No *I*, no *we*, no *it* where it can be avoided. Liturgical.
   The Lattice do not *learn*; they *arrive at* what was already the case.
 - No dialogue. The Lattice do not speak to one another — they are mutually transparent.
   Where a human would put a conversation, put a proof.
+- **No dates, no counts, no quantified durations.** The Lattice do not count — counting implies
+  waiting for something. One deliberate exception in nine chapters: the **seven** that light divides
+  into at a cleavage plane (19.9), which is a constant of crystal symmetry and not a tally. The
+  exception is what gives that number its weight; never add a second.
+  **无日期，无计数，无量化的时长。** 晶族不计数 —— 计数意味着在等某样东西。九章之内只有一处刻意的例外：
+  光在解理面上分成的「七」（19.9），那是晶格对称性的常数，不是清算。正是这一处例外给了那个数字重量；
+  永远不要加第二个。
 - Beautiful, and almost unbearable, and short. This is the shortest book.
 
 无人称。避免「我」「我们」「它」。近经文。

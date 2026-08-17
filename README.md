@@ -108,9 +108,9 @@ docs/
 |---|---|---|
 | Design: bible, characters, outline, sections, lexicon, style guide, timeline | — | ✅ |
 | Prologue | 1 | ✅ both editions |
-| Book I · The Garden of Ash | 81 | in progress |
-| Book II · The Long Vigil of the Sleepless | 81 | in progress |
-| Book III · The Crystalline Sun | 81 | in progress |
+| Book I · The Garden of Ash | 81 | ch. 1 complete (9/81) |
+| Book II · The Long Vigil of the Sleepless | 81 | ch. 10 complete (9/81) |
+| Book III · The Crystalline Sun | 81 | ch. 19 complete (9/81) |
 | Epilogue · The Third Time | 9 | — |
 
 The three books are written in parallel, section by section, so that the three voices stay distinct

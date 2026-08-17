@@ -258,7 +258,8 @@ This chapter is a list. Nothing explained, nothing remarked upon.
 # Book III · The Crystalline Sun
 
 No person. Scripture and geometry. No dialogue — where dialogue belongs, a proof.
-Verbs of revelation banned. **Not one number in nine chapters.** Shorter as it goes.
+Verbs of revelation banned. **No dates or counts in nine chapters** — sole exception, the **seven**
+of 19.9, a constant of crystal symmetry. Shorter as it goes.
 
 ## Ch. 19 · Under the Quenched Sun
 
