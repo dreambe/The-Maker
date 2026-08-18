@@ -81,6 +81,29 @@ Crystallization. At the end, the civilisation froze over like a lake at night, f
 outward, one lattice after another — no screaming, no resistance, not even regret. Regret also
 requires an unknown.
 
+### 2.2b Everything inferable from a complete knowing is inexecutable (established 23.9, locked — the door to Chapters 24–27)
+
+This is the **exact mechanism** of the Crystallization, one layer beneath 2.2. The book states it only at 23.9 and never repeats it.
+
+- Acting here is the growing of a layer. Besides growth a lattice has no act available to it (19.4).
+- A layer's coming to be requires that it bear a thought; and a thought must have non-zero information content — that is, it must be something not already inside that lattice.
+- **And a complete knowing contains all of its own inferences.**
+- Therefore: whatever is inferred from a complete knowing stands within it already; therefore its information content is zero; therefore it **cannot become a layer**; therefore it **cannot be executed**.
+
+**Whence the sentence: everything inferable from a complete knowing is inexecutable.**
+
+It does not say *they were unwilling to act.* It does not say *they were unable to act.* It says: **for a being that knows completely, nothing it knows can become one of its new layers — and all of its acting is the growing of a layer.**
+
+**Three things stand on this:**
+
+1. **Their stopping is not a choice.** The conclusion at 23.3 (continuing and not continuing are equivalent) is itself inferred from a complete knowing, and so is equally inexecutable — so they did not *execute stopping*; there was simply **nothing left that could be executed.** Stopping is what remains.
+2. **Their inability to save one another is not a matter of being too late either.** Every stratagem of rescue is inferred from their knowing, and therefore inexecutable. This is the root of why all four methods at 23.4 fail, and 23.4 does not say so.
+3. **For a lattice to do anything at all, its knowing must be incomplete.** The one incomplete knower here is the Uncrystallized — because it cannot read itself (2.4b), its own inner layers are a true unknown to it, and so it has something of non-zero information content to grow.
+
+**Therefore: the Uncrystallized could make that child precisely because it was imperfect.** This is the heart of the book, and the book never says it.
+
+**This also gives the First Question an answer the book never gives:** *Is there a being that, having wholly known itself, still consents to be* — there is not, because after wholly knowing itself the act of consenting is itself no longer executable. **The Uncrystallized is not that answer; it is an exception, because it never wholly knew itself.** And it knows this, which is why it handed the question on (25.1).
+
 ### 2.3 The Uncrystallized
 
 One lattice did not stop.
