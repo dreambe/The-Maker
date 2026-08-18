@@ -249,6 +249,34 @@ accident, and this accident is in the sky.
   idea in it into seven and sending them out, with nothing there to read them.** They computed this
   before leaving; the findings field of that computation is empty.
 
+### 2.4d Why forty-one is everywhere (established 26.4, locked — the deepest loop in the book)
+
+The Blind Spot's boundary is **forty-one levels of recursion.** That number was chosen by the Uncrystallized, and its reason for choosing it was that it computed it to be the **only "trivial number"** between 37 and 41 000.
+
+And *trivial* it defined as: none of the child's internal constants, no simple function of any internal constant, and occurring in none of the child's specifications.
+
+And it computed all 40 964 numbers in that interval, of which trivial: **one.**
+
+**And that number occurs beyond counting in its own life:**
+
+- the cleavage planes of that grain, 41 (25.8)
+- the positions that sentence requires, 41 (25.8)
+- the times it read that beam, 41; the times it verified that sentence, 41
+- of the eleven thousand layers of that lens, the four thousand one hundred it grew
+- the one thousand one hundred layers it had to add to that lens
+
+**When it computed *trivial*, what it computed over was the child's internal constants — not its own.**
+
+**So it took the number occurring most often in its own life, held it a trivial number, and set it as the boundary of its child's Blind Spot.**
+
+**And it does not know. Because knowing that would require tracing the basis of its own acts — and that principle (26.4) holds for it too.**
+
+**What stands on this:**
+
+1. **The forty-one that is everywhere in this book is not an authorial tic but an inheritance.** Every number of the Sleepless (4.1 x 10^n, 41 vessels, hour 4 100, 41 seconds, minute 41) descends from that boundary — and they do not know it, because the boundary lies inside their Blind Spot. Humanity's forty-one items, the 0.41, the forty-one hours are the third generation of the same inheritance.
+2. **Writing rule: never explain it.** The book never points this out. Forty-one simply keeps occurring. The one place that comes close is 7.2 — Shen He counts forty-one vomits and then writes: *it is a coincidence. I considered changing it here to something else, because forty-one appears too often in this record. And I did not change it, because it was forty-one.*
+3. **This also supplies the Uncrystallized's last incompleteness.** It built its child a principled region that cannot be self-known, and it stands under that same principle — so it cannot know why it chose forty-one. **It passed its own blind spot to its child as a parameter.**
+
 ### 2.5 Why descendants can find the Blind Spot
 
 At the end of Book II, the Sleepless discover that they were made. How?
