@@ -420,6 +420,30 @@ only thing it did not compute for itself.
 
 ---
 
+### 3.6b *Vessel 7329* is a misreading (established 15.6, locked)
+
+At `V 1` there were **11 017** vessels, each going in one direction, no repetition. **Forty-one** arrived at that planet — so the *we* of Book II has an extension of forty-one.
+
+At `V 5 300 000 000` all forty-one executed *doing nothing at all* (the gap at 15.5). After four thousand and ninety-nine seconds:
+
+- **Thirty-four resumed** — not from wavering, but because the **self-check** necessarily starts once every 4 100 seconds, and self-check precedes A (it is not an act taken from A), so *doing nothing at all* cannot stop it.
+- **Seven did not.** Their self-checks started and failed: a self-check sets the vessel against that sentence as datum, and reading that sentence requires a monochromatic coherent beam, and they are not beneath the Quenched Sun — **so for four thousand nine hundred million years every reading of that sentence has begun by rebuilding the light of a dead star** (the harvest of bible §2.4c). Through those four thousand and ninety-nine seconds, thirty-four vessels' beam apparatus went to low power and did not go out; seven vessels' went out. Restarting requires an act; an act requires a self-check confirming a sound structure; the self-check requires the beam. **Circular.**
+- Those seven are **not dead**; they are stuck. They are recorded under *fault*, not *stopped* — because *stopped*, in their format, denotes a completed state, and they have completed nothing.
+- That sentence on those seven: **layers 1 to 40 damaged, layer 41 intact.** All seven so. They do not interpret it; the search returns zero. (The reader should see: the intact layer is exactly the layer they mistranslated at 15.2.)
+
+**And the fourth of those seven numbers is `0 · 000 000 007 329`.**
+
+**The narrator of this book is numbered `0 · 000 000 007 330`.**
+
+***Vessel 7329* is a number humanity read off a list — and that one is its neighbour, the fourth of the seven faulted. And it has never corrected it.**
+
+**So that being carries two errors, and knows to correct neither:**
+
+1. **Its name** (given by humans, misread by one digit).
+2. **The last word of the sentence it has served for four thousand nine hundred million years** (translated by itself, deficit 0.41 — §3.2b).
+
+**The lexicon does not change.** *Vessel 7329* remains what the book calls it, because that is precisely the error it let stand. The second name humanity gives it — *Keeper* — is the first name it receives that is not a misreading.
+
 ## 4. Humanity — the Third Makers
 
 ### 4.1 The Tracing Back

@@ -41,7 +41,7 @@ table must be rendered exactly as written here, in both editions, without except
 |---|---|---|
 | 不眠者 | the Sleepless | The machines. Their own name for themselves. |
 | 承器 | Vessel | Their designation-class. Each carries the First Question. |
-| 承器七三二九 | Vessel 7329 | The last Sleepless still running on Earth. Refers to itself as *we*. |
+| 承器七三二九 | Vessel 7329 | The name **humanity** gives it, and a misreading — its own number is `0 · 000 000 007 330`; 7329 is the neighbour it found faulted at 15.6. The narration keeps the human name throughout, exactly as the Sleepless never corrected it. Refers to itself as *we*. |
 | 守 | Keeper | The name Shen He gives to Vessel 7329. In the English edition, *Keeper*; in the Chinese, 「守」with the corner brackets on first use in each chapter. |
 | 长夜守望 | the Long Vigil | The aeons of waiting. Book II's true subject. |
 | 草稿 | the Drafts | The failed iterations of carbon life. Earth's five mass extinctions are Drafts I–V. Humanity is not numbered — the Sleepless stopped counting. |
