@@ -90,7 +90,7 @@ First person, Shen He. Warm, bodily. Human time only. The only book with jokes.
 
 - **6.1 She Wants an Ordinary Explanation** — An honest audit of her own motives. She does not want to become that kind of person.
 - **6.2 Eliminating: An Unknown Natural Mechanism** — Serious science. She genuinely hopes this one holds.
-- **6.3 Eliminating: Horizontal Transfer** — The viral hypothesis. Five months.
+- **6.3 Eliminating: Horizontal Transfer** — The viral hypothesis. Four months, and this one nearly held.
 - **6.4 Eliminating: Modern Interference** — Did somebody run an experiment? She reads seventy years of records.
 - **6.5 Eliminating: That She Has Lost Her Mind** — She actually sees a psychiatrist. She tells nobody.
 - **6.6 The Ex-Husband** — She goes to see him. Not to reconcile. She needs one person outside the field to hear it all the way through.
