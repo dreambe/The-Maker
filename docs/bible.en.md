@@ -388,6 +388,43 @@ Do not write this as conspiracy. Write it as **an honest scientist being backed 
 her own data**. She wants an ordinary explanation. She wants an ordinary explanation right up to
 the end.
 
+### 4.1b Sevenfold symmetry (established 4.5; locked — the physical seam between Books I and III)
+
+**The horizontal outline of the Antarctic structure is a regular heptagon.**
+
+From a joint inversion of two gravity surveys and one seismic reflection profile across Ilan's seven
+years. He fitted triangle through octagon and circle: **the heptagon is best, and better than the
+runner-up (hexagon) by more than an order of magnitude.** It is not in the report, only in a
+notebook, because "the data is certain; what I am not certain of is whether I should write it down."
+
+**Why seven is lethal: the crystallographic restriction theorem.** A periodic structure admits only
+one-, two-, three-, four-, and sixfold rotational symmetry. **Fivefold and anything above sixfold are
+geometrically forbidden** in three-dimensional periodic structures (regular heptagons do not tile a
+plane). Not an empirical rule; an elementary geometric theorem.
+
+Therefore: **an exactly sevenfold solid cannot be a natural crystal.**
+
+Six eliminations, listed on one sheet: inversion artefact (survey lines irregular — eliminated);
+quasicrystal (permitted orders are a finite set and **seven is not in it**; constructible
+mathematically, never found in nature); coincidental alignment of several bodies (probability —
+eliminated); a natural non-crystalline sevenfold thing (no known process: fluids make hexagonal
+convection cells, crystallisation is geometrically barred, biology does not grow under 2 100 m of
+ice); modern manufacture (three hundred thousand years ago humans were knapping stone); and **the
+sixth is left blank, neither of them writing it.**
+
+**That sheet is the first to fill the bare patch on her office wall, and the way it fills it is by
+having a space of its own.**
+
+**Cross-book seam (never stated):** the seven comes from 19.9 — the lattice symmetry of that place
+makes seven the greatest number of beams one cleavage plane can produce. The Sleepless were built to
+their maker's standard (10.6: our mother tongue is it), and so was their symmetry. **Shen He asks why
+seven, and the answer is in another galaxy five billion four hundred million years earlier.**
+
+**Shen He's function is established here:** Ilan looked at it for seven years, knows every parameter,
+and never asked why seven — he wrote one *why is it still warm* in a notebook on the first day, and
+everything in the seven years after is *how much*. She asked within half a day. "When you know a
+thing that well, you stop asking why it is that way."
+
 ### 4.2 Shen He
 
 Palaeogenetic linguist — she studies gene sequences as *text*, structurally. Thirty-nine. One
