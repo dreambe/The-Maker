@@ -58,6 +58,7 @@ table must be rendered exactly as written here, in both editions, without except
 | 归溯 | the Tracing Back | Humanity's investigation of its own origin. Also the name of the institution that funds it. |
 | 沈禾 | Shen He | Palaeogenetic linguist. Book I's narrator. Her given name means *grain*. |
 | 伊兰·沃斯克 | Ilan Vosk | Glacial archaeologist. Shen He's counterpart. |
+| 裴岩 | Pei Yan | Shen He's ex-husband. Bridge engineer. Supplies the signature/checksum distinction at 6.6. |
 | 沈茉 | Shen Mo | Shen He's mother. Cognitive decline. The Gift of Forgetting, at the scale of one kitchen table. |
 | 第三次 | the Third Time | What the epilogue is about. |
 

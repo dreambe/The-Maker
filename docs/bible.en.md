@@ -477,6 +477,27 @@ and never asked why seven — he wrote one *why is it still warm* in a notebook 
 everything in the seven years after is *how much*. She asked within half a day. "When you know a
 thing that well, you stop asking why it is that way."
 
+### 4.1c A checksum is a functional component, not a mark (established 6.6, locked — the engine of Book I's second half)
+
+Pei Yan (Shen He's ex-husband, a bridge engineer) supplies this at 6.6. He is not in biology, so he does not ask *is this true*; he asks *if this is true, what then.*
+
+**Signature versus checksum:**
+
+- **A signature** proves *I made this.* It is for other people. Its function is attribution. **Static.**
+- **A checksum** proves *this thing is not broken.* It is for whoever reads it. Its function is verification. **It is a component in a process.**
+
+**So the existence of a checksum tells you somebody intends to read it again.**
+
+Whence three questions, which become the Tracing Back's three lines:
+
+1. **Who reads.** Reading it requires the algorithm (encoding, weighting, modulus). Whatever wrote it knew. Whom was it expecting? (Marcus's line → the second layer.)
+2. **When does it get read.** One-off (expired) / periodic (period longer than three hundred thousand years) / **event-triggered.** (Ilan's line → whether the Antarctic structure is waiting for an event.)
+3. **What happens if the check fails.** The purpose of a check is not knowing but **disposition**: repair, discard, or take out of service. A checksum with no disposition behind it is meaningless.
+
+**And the nine people (6.3: nine of 194 000 fail the checksum) are the evidence for this — not that there is no disposition, but that the disposition has not happened yet.**
+
+**The book turns here:** from *who made us and why* (a question about the past) to *when does it get read, and what happens if it fails* (a question about the future). The third question goes unanswered until Shen He, at forty-one, asks it aloud under the ice — and it answers.
+
 ### 4.2 Shen He
 
 Palaeogenetic linguist — she studies gene sequences as *text*, structurally. Thirty-nine. One

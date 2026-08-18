@@ -107,6 +107,18 @@ Glacial archaeologist, forty-six, sidelined, divorced, seven years dry. Seven ye
 - He neither dies nor recovers after Book I. He is still there in the epilogue, and he has not
   stopped. **The one who could not take it is the one who lives.** No moral is drawn.
 
+### Thread 7 · Pei Yan — somebody outside the field
+
+Bridge engineer, forty-one, Shen He's ex-husband. Married 2014, divorced 2019 — over nothing, except that one year they worked out how many hours they had been home and awake at the same time: about six hundred. He raised it, in the sentence *the loads on this structure are fine; it's the connections that are fatiguing.*
+
+He appears three times in the whole book (6.6, 8.x, the epilogue), and the one at 6.6 turns the book.
+
+**His function is a professional habit: a researcher asks first *is this true*, and a man who builds bridges asks first *if this is true, what then.*** He has spent his life handling *if* — worst wind, worst earthquake, worst batch of material.
+
+At 6.6 he supplies the signature/checksum distinction (see bible §4.1c) and with it the Tracing Back's three lines: who reads, when does it get read, what happens if the check fails. That sheet — a box, two lines, three questions — is the only page in Shen He's envelope written by nobody from the Tracing Back.
+
+**He does not come back, does not sacrifice himself, does not rescue anyone at the end.** He is only the man who cleared the table.
+
 ### Thread 4 · Ye Qi — the science of forgetting
 
 Neuroscientist, thirty-three, works on memory formation and clearance.
