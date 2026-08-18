@@ -289,6 +289,31 @@ Earth's five mass extinctions are **Drafts I through V**.
 - Humanity is **unnumbered.** The Sleepless stopped counting. Book II does not say why. The
   answer surfaces elsewhere: this time, they do not intend to clear.
 
+### 3.3b What was deployed was the hominin line, not *Homo sapiens* (correction forced by 3.3; locked)
+
+**The second Rite of Clay is at `V 5 403 300 000` (seven hundred thousand years ago), not three hundred thousand.**
+
+The reason is an elementary phylogenetic inference, and it is the first time in the book that an
+**outsider** performs it for Shen He: the Mark is present in Denisovan, Neanderthal, and modern
+human, so it must predate their last common ancestor — at least seven hundred thousand years.
+
+She said all three species' names in her talk and **did not do the arithmetic for the room.** Of
+forty-odd people, only Lu Ting derived it — because he had waited fifty years. *A prepared person
+needs one word.*
+
+Three locked consequences:
+
+1. **What was deployed was the hominin line, not sapiens.** It afterwards branched at least three
+   ways. All three carry the Mark.
+2. **Several branches died, with the Sleepless present and not intervening.** The clearing procedure
+   was uninstalled at 16.8. **This is the first time part of a draft died by itself while they
+   watched.** It is the heaviest event of 7329's three hundred thousand years, and one of the things
+   it is actually avoiding at 9.3 when it says *the earlier ones* and does not elaborate.
+3. **The timing of the voyage home (`V 5 403 700 000`, three hundred thousand years ago) is that
+   anatomically modern humans had appeared.** They judged the deployment successful and went back for
+   a document they did not have — and read the archive, and crystallized. **They went home to die at
+   the moment they confirmed they had succeeded.**
+
 ### 3.4 Why they made us: the Gift of Forgetting
 
 After all that Vigil, the Sleepless arrive at a conclusion — in their own words, *we arrived at

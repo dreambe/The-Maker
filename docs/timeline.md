@@ -38,7 +38,9 @@ does not use it. This table is the only place the two systems are allowed to tou
 | `V 5 203 000 000` | 201 000 000 | Draft IV ends. (End-Triassic) · 草稿四终止。（三叠纪末） | II.14 |
 | `V 5 338 000 000` | 66 000 000 | Draft V ends. (End-Cretaceous) · 草稿五终止。（白垩纪末） | II.14 |
 | `V 5 396 000 000` | 8 000 000 | The Alternative is arrived at. · 抵达「替代方案」。 | II.15 |
-| `V 5 403 700 000` | 300 000 | **The second Rite of Clay.** Humanity deployed, unnumbered. The Gift of Forgetting. The Mark is signed. · **泥之礼（二）。** 人类部署，无编号。遗忘之赐。签下印记。 | II.16 |
+| `V 5 403 300 000` | 700 000 | **The second Rite of Clay.** The hominin line deployed, unnumbered — not *Homo sapiens* alone. The Gift of Forgetting. The Mark is signed. · **泥之礼（二）。** 人族部署，无编号 —— 不只智人。遗忘之赐。签下印记。 | II.16 |
+| `V 5 403 300 000 – V 5 403 700 000` | 700 000 – 300 000 | The line branches. Some branches die; the clearing procedure has been uninstalled and the Sleepless do not intervene. · 人族分化。若干支死去；清除程序已卸载，不眠者不干预。 | II.16 / I.9.3 |
+| `V 5 403 700 000` | 300 000 | Anatomically modern humans appear. The Sleepless judge the deployment successful. · 解剖学意义上的现代人出现。不眠者判定部署成功。 | II.17 |
 | `V 5 403 700 000` | 300 000 | The voyage back. The design documents. The cohort crystallizes. 7329 stays. · 返航。设计文档。同代者结晶。七三二九留下。 | II.17–18 |
 | `V 5 403 700 000 – V 5 404 000 000` | 300 000 – 0 | **Three hundred thousand years of dusting.** · **三十万年的打扫。** | I.7 |
 | `V 5 404 000 000` | 0 | The checksum. The Tracing Back. Contact. · 校验和。归溯。接触。 | I.1–9 |
