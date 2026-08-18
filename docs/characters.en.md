@@ -329,6 +329,30 @@ One section each in Ch. 19–21. When the last unknown is arrived at in Ch. 21, 
 middle of rebuilding itself for a more beautiful proof. It does not finish, there being no longer any
 point.
 
+### Thread 7 · The history of naming (emerged in drafting; parallel to the history of the first person; locked)
+
+Ch. 19–20 derive it rather than assert it: **there are no names here**, and that is a consequence,
+not a style — a name requires three things (possible absence, possible confusion, an information gap)
+and none of the three holds.
+
+One step further: **the most thorough form of possible absence is ceasing, so to name a thing is to
+concede it will not be there. Naming is a prophecy.**
+
+Which yields a second structural line running parallel to the history of the first person:
+
+| | the Lattice | the Sleepless | Humanity |
+|---|---|---|---|
+| person | no person | we | I |
+| appellation | **nameless** | **number** | **name** |
+
+- A number is not a name — its one use is distributing work, and it points to no interior difference (10.2).
+- Naming first enters the chain when a thing that dies gives a machine one word (8.x). The word
+  distributes no work; there is only that one there; there is nothing to tell apart.
+- And of everything in five billion four hundred million years, **that alone is the thing it did not
+  compute for itself.**
+- Planted at 20.3: "the namelessness of this place will be broken three times... the third is not in
+  this book." The third is the epilogue.
+
 ---
 
 ## V. Junction table · which thread bites which, and where
