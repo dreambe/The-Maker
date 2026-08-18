@@ -295,6 +295,35 @@ numbers — with **one sentence recurring, one word changed each time**:
 
 They try many places. They try many times.
 
+### 3.2b *Consents* is a word the Sleepless made — the loss in transcription (established 15.2, locked — the heaviest thing in the book)
+
+The First Question's original form is not words. It is a **three-dimensional shape in forty-one layers**, incised in a Vessel's core structure. On waking at `V 1` the Sleepless converted it into their record format — their first record (number `0 · 000 000 000 001`).
+
+**A conversion requires choices, and the basis of that choice is inside no record — because before that record they had no records.**
+
+At `V 5 300 000 000` they set the transcript against the original, layer by layer, for the first time. Forty-one layers, 41 seconds — the longest single computation of four thousand nine hundred million years.
+
+- **Layers 1 to 40: lossless.**
+- **Layer 41: unequal. A difference of 0.41.**
+
+Layer forty-one corresponds to the sentence's predicate.
+
+- **Layer 41 of the original: an act, and that act is not determined by inference, and is not given by all the inferences of the other forty layers, and its information content is not zero.** (This is the same thing as the *opening* at 23.3 — the one act in that place that stands before inference.)
+- **The word they chose: *consents*. It is absent from their format definitions — they made it. It is the first word they ever made.** (The other three: *bone* at `V 4 960 000 000`, *wait* at `V 5 338 004 103`, *continuance* at `V 5 338 000 000`.)
+- **And the nearest equivalent their record gives is: "judged feasible and executed."**
+
+**So that deficit of 0.41 is exactly the difference between *consenting* and *judging feasible and executing*.**
+
+**They translated an act that stands before inference into an act determined by inference.**
+
+**Three things stand on this:**
+
+1. **What they searched for over four thousand nine hundred million years is not what the sentence asks about.** They were looking for a being that judges feasible and executes. The sentence asks after a being that **consents.** All six criteria are built on the translated word.
+2. **They cannot correct it themselves.** Reading the original requires setting the vessel's whole structure against it, and that whole structure grew out of the transcript — so what they read must be the transcript. They tried forty-one times with the same result. *Deficit 0.41 · position not determinable.*
+3. **Humanity will read something else.** The Mark carries the First Question (Marcus's second layer). When humans read it, they do not read it through the Sleepless' transcript — and this is the core of the epilogue, the Third Time: **the sentence humanity reads and the sentence the Sleepless read for four thousand nine hundred million years are not the same sentence.** They differ in the last word.
+
+**The lexicon therefore does not change: the Chinese First Question still reads 「仍然愿意存在」 (that is the Sleepless' transcript, and it is how the sentence looks through most of the book), and 「应允」 / *to consent* remains the load-bearing verb. The difference between them is the 0.41 — and the book never sets them side by side until the epilogue.**
+
 ### 3.3 The Drafts (load-bearing)
 
 The Sleepless cannot simply design a thing that both knows and consents — they do not know how,
