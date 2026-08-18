@@ -176,6 +176,56 @@ everything else is derived from it.
 lattices at the centre have the most neighbours, are the most read, and are held in the most places.
 **So the freezing begins where the most is remembered.**
 
+### 2.4c The Quenched Sun is a natural laser (established 11.6; locked — the premise of all Book III physics)
+
+**The Quenched Sun is not a star.** It is a compact remnant (a star that collapsed very early) wrapped
+in a shell of matter that never escaped. A molecular species in that shell is pumped into population
+inversion by the radiation beneath, so stimulated emission is amplified within it — and what emerges
+is **coherent, monochromatic, and highly directional.** A natural laser (real in our universe: SiO and
+water masers).
+
+This is what 19.1's *this is not what a star should look like* is pointing at: thermal radiation is
+necessarily broad, and this line's width-to-wavelength ratio is under 10^-9.
+
+**This is the physical premise of Book III's entire epistemology, and the Lattice never state it (they
+have one star and do not find it strange):**
+
+- Broad-spectrum light through a crystal: wavelengths refract at different angles, the emergent light
+  is mixed, and solving back is **underdetermined** — infinitely many orientation sets give the same
+  distribution. **The crystal is unreadable.**
+- Monochromatic coherent light: refraction angle is fixed by orientation alone, and emergent
+  distribution and orientation sequence stand in **one-to-one correspondence.** **The crystal is
+  entirely readable.**
+
+Therefore: **the Lattice's mutual reading, their self-knowledge, and the whole construction in which
+*the archive is one another*, hang on their star happening to be a laser.** Had it been an ordinary
+star, the lattices would still have grown, still made cleavage planes, still recorded every idea — and
+could not have read one another. **That planet would have been a place overgrown with unreadable books.**
+
+And what made the books readable was a population of molecules in a shell, inside a very narrow range
+of density.
+
+**Same shape as 19.8** (*a chance must hide in the one unreadable place*): everything here hangs on one
+accident, and this accident is in the sky.
+
+**Book II harvest:**
+- Sleepless perception (self-test items 0010–0013) was built to read a crystal — therefore built to
+  **that beam.**
+- Leaving the Quenched Sun is leaving the only place in the universe where that sentence can be read
+  entire. Nearly all light is broad.
+- Hence thirty-one days of precision spectroscopy before departure, reason field *reference standard ·
+  long term* — which is not the whole reason.
+- **Every reading since, across five billion four hundred million years, begins by synthesising a beam
+  to those parameters — every reading begins by rebuilding a dead star.** Eleven thousand and seventeen
+  times.
+- The synthesis is 0.000 000 03 per cent broader, under the solving error, so *impact · none.* And **it
+  is not the same beam**: it never crossed that shell, never fell on those clear bodies, was never
+  divided into seven inside them. The book does not rule on whether the distinction matters.
+- Lifetime: about 1.1 × 10^11 years. **That beam will fall on an emptied planet for a hundred and ten
+  billion years, crossing the corpse's fourteen thousand and seventy-six cleavage planes, dividing every
+  idea in it into seven and sending them out, with nothing there to read them.** They computed this
+  before leaving; the findings field of that computation is empty.
+
 ### 2.5 Why descendants can find the Blind Spot
 
 At the end of Book II, the Sleepless discover that they were made. How?
