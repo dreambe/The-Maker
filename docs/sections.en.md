@@ -387,6 +387,9 @@ Shen He. Very short, very cold, and then very warm. The word *love* never appear
 - **E.8 The Rite of Clay, Third Time** — The temperature. The sound of the cooling.
 - **E.9 ◆ The Face** — What the maker does with her face. On it is something the first two did not have. Do not write what it is.
 
+> E.6 is the one place in this epilogue that is out of sequence (back to 15 March 2034), and its first line says so and gives the reason: one person's death and a species' completeness are not on the same clock.
+
+
 ---
 
 ## Writing and commit conventions

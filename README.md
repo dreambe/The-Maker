@@ -108,13 +108,14 @@ docs/
 |---|---|---|
 | Design: bible, characters, outline, sections, lexicon, style guide, timeline | — | ✅ |
 | Prologue | 1 | ✅ both editions |
-| Book I · The Garden of Ash | 81 | ch. 1–8 complete (72/81) |
-| Book II · The Long Vigil of the Sleepless | 81 | ch. 10–17 complete (72/81) |
-| Book III · The Crystalline Sun | 81 | ch. 19–26 complete (72/81) |
-| Epilogue · The Third Time | 9 | — |
+| Book I · The Garden of Ash | 81 | ✅ both editions (81/81) |
+| Book II · The Long Vigil of the Sleepless | 81 | ✅ both editions (81/81) |
+| Book III · The Crystalline Sun | 81 | ✅ both editions (81/81) |
+| Epilogue · The Third Time | 9 | ✅ both editions (9/9) |
+| **Total** | **253** | **✅ complete — about 510 000 Chinese characters, English edition beside it** |
 
-The three books are written in parallel, section by section, so that the three voices stay distinct
-by contrast rather than by memory.
+The three books were written in parallel from beginning to end, section by section, so that the three
+voices stay distinct by contrast rather than by memory. All 253 sections exist in both editions.
 
 ## Licence
 
